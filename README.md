@@ -108,7 +108,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 ## Bruteforcers
 
 *Tools used for various kind of bruteforcing (passwords etc.)*
-
+- [Ciphey](https://github.com/vandolten/Ciphey) - Automated decryption/decoding/cracking tool
 - [Hashcat](https://hashcat.net/hashcat/) - Password Cracker
 - [Hydra](https://tools.kali.org/password-attacks/hydra) - A parallelized login cracker which supports numerous protocols to attack
 - [John The Jumbo](https://github.com/magnumripper/JohnTheRipper) - Community enhanced version of John the Ripper.
@@ -278,10 +278,6 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [W3af](https://github.com/andresriancho/w3af) -  Web Application Attack and Audit Framework.
 - [XSSer](http://xsser.sourceforge.net/) - Automated XSS testor.
 
-
-# Resources
-
-*Where to discover about CTF*
 
 ## Operating Systems
 
