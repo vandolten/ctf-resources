@@ -308,7 +308,7 @@ It takes time to build up collection of tools used in CTF and remember them all.
 ## Tutorials
 
 *Tutorials to learn how to play CTFs*
-
+- [CTF Playbook](https://fareedfauzi.gitbook.io/ctf-playbook/) - Short Guide for CTF beginners 
 - [CTF Field Guide](https://trailofbits.github.io/ctf/) - Field Guide by Trails of Bits.
 - [CTF Resources](http://ctfs.github.io/resources/) -  Start Guide maintained by community.
 - [How to Get Started in CTF](https://www.endgame.com/blog/how-get-started-ctf) - Short guideline for CTF beginners by Endgame
@@ -381,7 +381,6 @@ It takes time to build up collection of tools used in CTF and remember them all.
 ## Writeups Collections
 
 *Collections of CTF write-ups*
-
 - [0e85dc6eaf](https://github.com/0e85dc6eaf/CTF-Writeups) - Write-ups for CTF challenges by 0e85dc6eaf
 - [Captf](http://captf.com/) - Dumped CTF challenges and materials by psifertex.
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community.
@@ -392,3 +391,10 @@ It takes time to build up collection of tools used in CTF and remember them all.
 - [SababaSec](https://github.com/SababaSec/ctf-writeups) - A collection of CTF write-ups by the SababaSec team
 - [Shell Storm](http://shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan.
 - [Smoke Leet Everyday](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.
+- [Hacking-Lab](https://www.hacking-lab.com/events/hackvent-2022#writeups) - CTF write-ups from Hackvent 2022
+
+  ## Blogs
+
+*Collections of Blogs*
+- [Skcull](https://sckull.github.io/) - HackTheBox write-ups by from different machines by sckull
+- [Security Ramblings](https://casvancooten.com/) - CTF write-ups and blog by Cas
